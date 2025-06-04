@@ -1,0 +1,553 @@
+{
+  "accounts": [
+    {
+      "account_id": "oayMLaN8nKiLGl397JEgCdEV9qbLN5FodpoEX",
+      "balances": {
+        "available": 100,
+        "current": 110,
+        "iso_currency_code": "EUR",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "holder_category": "personal",
+      "mask": "0000",
+      "name": "Plaid Current Account",
+      "official_name": "Plaid Standard Current Account",
+      "subtype": "checking",
+      "type": "depository",
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "gq74JqZQWRSGEv9y61n7copQeMVymPfExLEWg",
+      "balances": {
+        "available": 200,
+        "current": 210,
+        "iso_currency_code": "EUR",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "holder_category": "personal",
+      "mask": "1111",
+      "name": "Plaid Saving",
+      "official_name": "Plaid Standard Interest Saving",
+      "subtype": "savings",
+      "type": "depository",
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "Wnkm4nglD1HJkRL8mexVfAZeXJBW13u6kP6gw",
+      "balances": {
+        "available": 1100,
+        "current": 1205,
+        "iso_currency_code": "EUR",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "holder_category": "business",
+      "mask": "2222",
+      "name": "Plaid Business Current Account",
+      "official_name": "Plaid Business Current Account",
+      "subtype": "checking",
+      "type": "depository",
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "8XZlRXVaEnTZw4XL5QJ1CJBNXgdjvAtWbZWqW",
+      "balances": {
+        "available": null,
+        "current": 410,
+        "iso_currency_code": "EUR",
+        "limit": 2000,
+        "unofficial_currency_code": null
+      },
+      "mask": "3333",
+      "name": "Plaid Credit Card",
+      "official_name": "Plaid Diamond Credit Card",
+      "subtype": "credit card",
+      "type": "credit",
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "EX3jrXEoDqTJkyP7MZx1fBNQj4yZqri4qg4bg",
+      "balances": {
+        "available": null,
+        "current": 56302.06,
+        "iso_currency_code": "EUR",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "mask": "8888",
+      "name": "Plaid Mortgage",
+      "official_name": null,
+      "subtype": "mortgage",
+      "type": "loan",
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "AXKa9XbMEDTEK6d5MgrkCwmdgx8Ay7S9Q49zo",
+      "balances": {
+        "available": 4980,
+        "current": 5020,
+        "iso_currency_code": "EUR",
+        "limit": 10000,
+        "unofficial_currency_code": null
+      },
+      "holder_category": "business",
+      "mask": "9999",
+      "name": "Plaid Business Credit Card",
+      "official_name": "Plaid Platinum Small Business Credit Card",
+      "subtype": "credit card",
+      "type": "credit",
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "1d7ZDLGyKXIlVrdQvaeEHjJMjdWbJ4upXvjQK",
+      "balances": {
+        "available": 100,
+        "current": 110,
+        "iso_currency_code": "EUR",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "holder_category": "personal",
+      "mask": "0000",
+      "name": "Plaid Current Account",
+      "official_name": "Plaid Standard Current Account",
+      "subtype": "checking",
+      "type": "depository",
+      "institution_id_source": "ins_122879"
+    },
+    {
+      "account_id": "LvxlzQWjnEhZAyDLwdnzF8Q48yKwQ7CkKzjL8",
+      "balances": {
+        "available": 200,
+        "current": 210,
+        "iso_currency_code": "EUR",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "holder_category": "personal",
+      "mask": "1111",
+      "name": "Plaid Saving",
+      "official_name": "Plaid Standard Interest Saving",
+      "subtype": "savings",
+      "type": "depository",
+      "institution_id_source": "ins_122879"
+    },
+    {
+      "account_id": "gKl9LN8AQjIGmBawdRn7foxqo4naxWSERk8lG",
+      "balances": {
+        "available": 1100,
+        "current": 1205,
+        "iso_currency_code": "EUR",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "holder_category": "business",
+      "mask": "2222",
+      "name": "Plaid Business Current Account",
+      "official_name": "Plaid Business Current Account",
+      "subtype": "checking",
+      "type": "depository",
+      "institution_id_source": "ins_122879"
+    },
+    {
+      "account_id": "pNkwdlzLEoUbvGeR4PVXhZMAZEVPMGupjmoDG",
+      "balances": {
+        "available": null,
+        "current": 410,
+        "iso_currency_code": "EUR",
+        "limit": 2000,
+        "unofficial_currency_code": null
+      },
+      "mask": "3333",
+      "name": "Plaid Credit Card",
+      "official_name": "Plaid Diamond Credit Card",
+      "subtype": "credit card",
+      "type": "credit",
+      "institution_id_source": "ins_122879"
+    },
+    {
+      "account_id": "o4dEkWrX8pSLajob4REgTdeodk6Re3to5wqXm",
+      "balances": {
+        "available": null,
+        "current": 56302.06,
+        "iso_currency_code": "EUR",
+        "limit": null,
+        "unofficial_currency_code": null
+      },
+      "mask": "8888",
+      "name": "Plaid Mortgage",
+      "official_name": null,
+      "subtype": "mortgage",
+      "type": "loan",
+      "institution_id_source": "ins_122879"
+    },
+    {
+      "account_id": "8eyK8v3waBuZEvRlMWJ1FJLxJqn7LMfWpE3xQ",
+      "balances": {
+        "available": 4980,
+        "current": 5020,
+        "iso_currency_code": "EUR",
+        "limit": 10000,
+        "unofficial_currency_code": null
+      },
+      "holder_category": "business",
+      "mask": "9999",
+      "name": "Plaid Business Credit Card",
+      "official_name": "Plaid Platinum Small Business Credit Card",
+      "subtype": "credit card",
+      "type": "credit",
+      "institution_id_source": "ins_122879"
+    }
+  ],
+  "transactions": [
+    {
+      "account_id": "gq74JqZQWRSGEv9y61n7copQeMVymPfExLEWg",
+      "account_owner": null,
+      "amount": 25,
+      "authorized_date": "2025-04-18",
+      "authorized_datetime": null,
+      "category": null,
+      "category_id": null,
+      "check_number": null,
+      "counterparties": [],
+      "date": "2025-04-19",
+      "datetime": null,
+      "iso_currency_code": "EUR",
+      "location": {
+        "address": null,
+        "city": null,
+        "country": null,
+        "lat": null,
+        "lon": null,
+        "postal_code": null,
+        "region": null,
+        "store_number": null
+      },
+      "logo_url": null,
+      "merchant_entity_id": null,
+      "merchant_name": null,
+      "name": "CREDIT CARD 3333 PAYMENT *//",
+      "payment_channel": "other",
+      "payment_meta": {
+        "by_order_of": null,
+        "payee": null,
+        "payer": null,
+        "payment_method": null,
+        "payment_processor": null,
+        "ppd_id": null,
+        "reason": null,
+        "reference_number": null
+      },
+      "pending": false,
+      "pending_transaction_id": null,
+      "personal_finance_category": {
+        "confidence_level": "UNKNOWN",
+        "detailed": "LOAN_PAYMENTS_CREDIT_CARD_PAYMENT",
+        "primary": "LOAN_PAYMENTS"
+      },
+      "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_LOAN_PAYMENTS.png",
+      "transaction_code": null,
+      "transaction_id": "BXk45Xd1bVTALpadbQzntJlPprLJWwc4kadVa",
+      "transaction_type": "special",
+      "unofficial_currency_code": null,
+      "website": null,
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "Wnkm4nglD1HJkRL8mexVfAZeXJBW13u6kP6gw",
+      "account_owner": null,
+      "amount": 1000,
+      "authorized_date": null,
+      "authorized_datetime": null,
+      "category": null,
+      "category_id": null,
+      "check_number": null,
+      "counterparties": [],
+      "date": "2025-04-18",
+      "datetime": null,
+      "iso_currency_code": "EUR",
+      "location": {
+        "address": null,
+        "city": null,
+        "country": null,
+        "lat": null,
+        "lon": null,
+        "postal_code": null,
+        "region": null,
+        "store_number": null
+      },
+      "logo_url": null,
+      "merchant_entity_id": null,
+      "merchant_name": null,
+      "name": "CD DEPOSIT .INITIAL.",
+      "payment_channel": "in store",
+      "payment_meta": {
+        "by_order_of": null,
+        "payee": null,
+        "payer": null,
+        "payment_method": null,
+        "payment_processor": null,
+        "ppd_id": null,
+        "reason": null,
+        "reference_number": null
+      },
+      "pending": false,
+      "pending_transaction_id": null,
+      "personal_finance_category": {
+        "confidence_level": "UNKNOWN",
+        "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE",
+        "primary": "GENERAL_MERCHANDISE"
+      },
+      "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_GENERAL_MERCHANDISE.png",
+      "transaction_code": null,
+      "transaction_id": "VJqbgJGVDMSwyGXgkNAVfkeQa78kNbi9DlxGg",
+      "transaction_type": "special",
+      "unofficial_currency_code": null,
+      "website": null,
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "oayMLaN8nKiLGl397JEgCdEV9qbLN5FodpoEX",
+      "account_owner": null,
+      "amount": -500,
+      "authorized_date": "2025-04-17",
+      "authorized_datetime": null,
+      "category": null,
+      "category_id": null,
+      "check_number": null,
+      "counterparties": [
+        {
+          "confidence_level": "VERY_HIGH",
+          "entity_id": "NKDjqyAdQQzpyeD8qpLnX0D6yvLe2KYKYYzQ4",
+          "logo_url": "https://plaid-merchant-logos.plaid.com/united_airlines_1065.png",
+          "name": "United Airlines",
+          "phone_number": null,
+          "type": "merchant",
+          "website": "united.com"
+        }
+      ],
+      "date": "2025-04-17",
+      "datetime": null,
+      "iso_currency_code": "EUR",
+      "location": {
+        "address": null,
+        "city": null,
+        "country": null,
+        "lat": null,
+        "lon": null,
+        "postal_code": null,
+        "region": null,
+        "store_number": null
+      },
+      "logo_url": "https://plaid-merchant-logos.plaid.com/united_airlines_1065.png",
+      "merchant_entity_id": "NKDjqyAdQQzpyeD8qpLnX0D6yvLe2KYKYYzQ4",
+      "merchant_name": "United Airlines",
+      "name": "United Airlines",
+      "payment_channel": "in store",
+      "payment_meta": {
+        "by_order_of": null,
+        "payee": null,
+        "payer": null,
+        "payment_method": null,
+        "payment_processor": null,
+        "ppd_id": null,
+        "reason": null,
+        "reference_number": null
+      },
+      "pending": false,
+      "pending_transaction_id": null,
+      "personal_finance_category": {
+        "confidence_level": "UNKNOWN",
+        "detailed": "TRAVEL_FLIGHTS",
+        "primary": "TRAVEL"
+      },
+      "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_TRAVEL.png",
+      "transaction_code": null,
+      "transaction_id": "GXdekXB8DrTaKZ7zpk94CadPpqDakVS6Zwmq6",
+      "transaction_type": "special",
+      "unofficial_currency_code": null,
+      "website": "united.com",
+      "institution_id_source": "ins_122878"
+    },
+    {
+      "account_id": "LvxlzQWjnEhZAyDLwdnzF8Q48yKwQ7CkKzjL8",
+      "account_owner": null,
+      "amount": 25,
+      "authorized_date": "2025-04-18",
+      "authorized_datetime": null,
+      "category": null,
+      "category_id": null,
+      "check_number": null,
+      "counterparties": [],
+      "date": "2025-04-19",
+      "datetime": null,
+      "iso_currency_code": "EUR",
+      "location": {
+        "address": null,
+        "city": null,
+        "country": null,
+        "lat": null,
+        "lon": null,
+        "postal_code": null,
+        "region": null,
+        "store_number": null
+      },
+      "logo_url": null,
+      "merchant_entity_id": null,
+      "merchant_name": null,
+      "name": "CREDIT CARD 3333 PAYMENT *//",
+      "payment_channel": "other",
+      "payment_meta": {
+        "by_order_of": null,
+        "payee": null,
+        "payer": null,
+        "payment_method": null,
+        "payment_processor": null,
+        "ppd_id": null,
+        "reason": null,
+        "reference_number": null
+      },
+      "pending": false,
+      "pending_transaction_id": null,
+      "personal_finance_category": {
+        "confidence_level": "UNKNOWN",
+        "detailed": "LOAN_PAYMENTS_CREDIT_CARD_PAYMENT",
+        "primary": "LOAN_PAYMENTS"
+      },
+      "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_LOAN_PAYMENTS.png",
+      "transaction_code": null,
+      "transaction_id": "bvPE9w13NdhWzla1r5ENfZb8gnpMByFm7onDj",
+      "transaction_type": "special",
+      "unofficial_currency_code": null,
+      "website": null,
+      "institution_id_source": "ins_122879"
+    },
+    {
+      "account_id": "gKl9LN8AQjIGmBawdRn7foxqo4naxWSERk8lG",
+      "account_owner": null,
+      "amount": 1000,
+      "authorized_date": null,
+      "authorized_datetime": null,
+      "category": null,
+      "category_id": null,
+      "check_number": null,
+      "counterparties": [],
+      "date": "2025-04-18",
+      "datetime": null,
+      "iso_currency_code": "EUR",
+      "location": {
+        "address": null,
+        "city": null,
+        "country": null,
+        "lat": null,
+        "lon": null,
+        "postal_code": null,
+        "region": null,
+        "store_number": null
+      },
+      "logo_url": null,
+      "merchant_entity_id": null,
+      "merchant_name": null,
+      "name": "CD DEPOSIT .INITIAL.",
+      "payment_channel": "in store",
+      "payment_meta": {
+        "by_order_of": null,
+        "payee": null,
+        "payer": null,
+        "payment_method": null,
+        "payment_processor": null,
+        "ppd_id": null,
+        "reason": null,
+        "reference_number": null
+      },
+      "pending": false,
+      "pending_transaction_id": null,
+      "personal_finance_category": {
+        "confidence_level": "UNKNOWN",
+        "detailed": "GENERAL_MERCHANDISE_OTHER_GENERAL_MERCHANDISE",
+        "primary": "GENERAL_MERCHANDISE"
+      },
+      "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_GENERAL_MERCHANDISE.png",
+      "transaction_code": null,
+      "transaction_id": "LvxlzQWjnEhZAyDLwdnzF8QPpr5RBVFkEeKRZ",
+      "transaction_type": "special",
+      "unofficial_currency_code": null,
+      "website": null,
+      "institution_id_source": "ins_122879"
+    },
+    {
+      "account_id": "1d7ZDLGyKXIlVrdQvaeEHjJMjdWbJ4upXvjQK",
+      "account_owner": null,
+      "amount": -500,
+      "authorized_date": "2025-04-17",
+      "authorized_datetime": null,
+      "category": null,
+      "category_id": null,
+      "check_number": null,
+      "counterparties": [
+        {
+          "confidence_level": "VERY_HIGH",
+          "entity_id": "NKDjqyAdQQzpyeD8qpLnX0D6yvLe2KYKYYzQ4",
+          "logo_url": "https://plaid-merchant-logos.plaid.com/united_airlines_1065.png",
+          "name": "United Airlines",
+          "phone_number": null,
+          "type": "merchant",
+          "website": "united.com"
+        }
+      ],
+      "date": "2025-04-17",
+      "datetime": null,
+      "iso_currency_code": "EUR",
+      "location": {
+        "address": null,
+        "city": null,
+        "country": null,
+        "lat": null,
+        "lon": null,
+        "postal_code": null,
+        "region": null,
+        "store_number": null
+      },
+      "logo_url": "https://plaid-merchant-logos.plaid.com/united_airlines_1065.png",
+      "merchant_entity_id": "NKDjqyAdQQzpyeD8qpLnX0D6yvLe2KYKYYzQ4",
+      "merchant_name": "United Airlines",
+      "name": "United Airlines",
+      "payment_channel": "in store",
+      "payment_meta": {
+        "by_order_of": null,
+        "payee": null,
+        "payer": null,
+        "payment_method": null,
+        "payment_processor": null,
+        "ppd_id": null,
+        "reason": null,
+        "reference_number": null
+      },
+      "pending": false,
+      "pending_transaction_id": null,
+      "personal_finance_category": {
+        "confidence_level": "UNKNOWN",
+        "detailed": "TRAVEL_FLIGHTS",
+        "primary": "TRAVEL"
+      },
+      "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_TRAVEL.png",
+      "transaction_code": null,
+      "transaction_id": "DAy794MRpZfX1DnP7lWzTewmJNMd68F3J4NA8",
+      "transaction_type": "special",
+      "unofficial_currency_code": null,
+      "website": "united.com",
+      "institution_id_source": "ins_122879"
+    }
+  ],
+  "metadata": {
+    "processed_institution_ids": [
+      "ins_122878",
+      "ins_122879",
+      "ins_122880"
+    ],
+    "total_accounts_retrieved": 12,
+    "total_transactions_retrieved": 6
+  }
+}

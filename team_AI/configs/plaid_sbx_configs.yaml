@@ -1,0 +1,83 @@
+# PATHS AND FILES
+ENV_FILE_PATH: "./.env"
+DATA_DIR: "./data/"
+# DATA_DIR: "./data/US/"
+# DATA_DIR: "./data/EU/"
+
+# URLS
+WEBHOOK_URL: "https://www.plaid.com/webhook"
+WEBHOOK_URL_ASSETS: "https://www.genericwebhookurl.com/webhook"
+BASE_URL: "https://sandbox.plaid.com"
+CREATE_PUBLIC_TOKEN_URL: "/sandbox/public_token/create"
+EXCHANGE_TOKEN_URL: "/item/public_token/exchange"
+
+# GENERAL CONFIGURATION
+WAIT_TIME: 10 # seconds
+
+# CONFIGURATION FOR `INSTITUTIONS` | ADJUST AS NEEDED
+INSTITUTIONS_URL: "/institutions/get"
+INSTITUTIONS_COUNT: 3
+INSTITUTIONS_OFFSET: 5
+BANK_PRODUCTS:
+  - assets
+  - auth
+  - balance
+  - employment
+  - identity
+  - cra_base_report
+  - cra_income_insights
+  - cra_network_insights
+  - cra_partner_insights
+  - income_verification
+  - identity_verification
+  - investments
+  - liabilities
+  - payment_initiation
+  - standing_orders
+  - transactions
+  - transfer
+
+COUNTRY_CODES:
+  - US
+  - GB
+  - ES
+  - NL
+  - FR
+  - IE
+  - CA
+  - DE
+  - IT
+  - PL
+  - DK
+  - "NO"
+  - SE
+  - EE
+  - LT
+  - LV
+  - PT
+  - BE
+  - AT
+  - FI
+
+# CONFIGURATION FOR `ITEMS` | ADJUST AS NEEDED
+ITEMS_URL: "/item/get"
+IDENTITY_URL: "/identity/get"
+TRANSACTIONS_URL: "/transactions/get"
+
+TRANSACTIONS_START_DATE: "2023-05-01"  
+TRANSACTIONS_END_DATE: "2025-05-01"
+TRANSACTIONS_COUNT: 3
+TRANSACTIONS_OFFSET: 5
+
+BALANCE_JSON: "balance.json"
+BALANCE_CSV: "balance.csv"
+# BALANCE_URL: "/accounts/balance/get"
+
+
+
+# CONFIGURATION FOR `ASSETS` | ADJUST AS NEEDED
+ASSETS_URL: "/asset_report/get"
+# ASSETS_START_DATE: "2023-05-01"
+# ASSETS_END_DATE: "2025-05-01"
+# ASSETS_COUNT: 3
+# ASSETS_OFFSET: 5

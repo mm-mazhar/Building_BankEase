@@ -1,0 +1,78 @@
+{
+  "institutions": [
+    {
+      "country_codes": [
+        "FR"
+      ],
+      "institution_id": "ins_122878",
+      "name": "Banque Populaire - du Nord",
+      "oauth": true,
+      "products": [
+        "assets",
+        "auth",
+        "balance",
+        "identity",
+        "identity_match",
+        "income_verification",
+        "pay_by_bank",
+        "payment_initiation",
+        "processor_payments",
+        "recurring_transactions",
+        "signal",
+        "transactions",
+        "transfer"
+      ],
+      "routing_numbers": []
+    },
+    {
+      "country_codes": [
+        "FR"
+      ],
+      "institution_id": "ins_122879",
+      "name": "Banque Populaire - Sud",
+      "oauth": true,
+      "products": [
+        "assets",
+        "auth",
+        "balance",
+        "identity",
+        "identity_match",
+        "income_verification",
+        "pay_by_bank",
+        "payment_initiation",
+        "processor_payments",
+        "recurring_transactions",
+        "signal",
+        "transactions",
+        "transfer"
+      ],
+      "routing_numbers": []
+    },
+    {
+      "country_codes": [
+        "FR"
+      ],
+      "institution_id": "ins_122880",
+      "name": "Banque Populaire - Aquitaine Centre Atlantique",
+      "oauth": true,
+      "products": [
+        "assets",
+        "auth",
+        "balance",
+        "identity",
+        "identity_match",
+        "income_verification",
+        "pay_by_bank",
+        "payment_initiation",
+        "processor_payments",
+        "recurring_transactions",
+        "signal",
+        "transactions",
+        "transfer"
+      ],
+      "routing_numbers": []
+    }
+  ],
+  "request_id": "OIDvULoebsFCuex",
+  "total": 11755
+}

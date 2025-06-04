@@ -1,0 +1,125 @@
+[
+  {
+    "item": {
+      "available_products": [
+        "assets",
+        "auth",
+        "balance",
+        "identity",
+        "identity_match",
+        "income_verification",
+        "payment_initiation",
+        "recurring_transactions",
+        "signal",
+        "transfer"
+      ],
+      "billed_products": [
+        "transactions"
+      ],
+      "consent_expiration_time": "2025-07-04T23:09:05Z",
+      "created_at": "2025-06-04T23:09:04Z",
+      "error": null,
+      "institution_id": "ins_122878",
+      "institution_name": "Banque Populaire - du Nord",
+      "item_id": "LZboxQw6nGTdVjmmKlv6C8jMwW8mw8fP3PvLq",
+      "products": [
+        "transactions"
+      ],
+      "update_type": "background",
+      "webhook": "https://www.plaid.com/webhook"
+    },
+    "request_id": "xVFpA5FxMM9lKSC",
+    "status": {
+      "last_webhook": {
+        "code_sent": "HISTORICAL_UPDATE",
+        "sent_at": "2025-06-04T23:09:12.925Z"
+      },
+      "transactions": {
+        "last_failed_update": "2025-06-04T23:09:06.209Z",
+        "last_successful_update": "2025-06-04T23:09:11.001Z"
+      }
+    }
+  },
+  {
+    "item": {
+      "available_products": [
+        "assets",
+        "auth",
+        "balance",
+        "identity",
+        "identity_match",
+        "income_verification",
+        "payment_initiation",
+        "recurring_transactions",
+        "signal",
+        "transfer"
+      ],
+      "billed_products": [
+        "transactions"
+      ],
+      "consent_expiration_time": "2025-07-04T23:09:19Z",
+      "created_at": "2025-06-04T23:09:18Z",
+      "error": null,
+      "institution_id": "ins_122879",
+      "institution_name": "Banque Populaire - Sud",
+      "item_id": "K8k5MbPJg4cmWxNRx3ebi8wXDrWW7eCVjyR7Z",
+      "products": [
+        "transactions"
+      ],
+      "update_type": "background",
+      "webhook": "https://www.plaid.com/webhook"
+    },
+    "request_id": "B7sYvrKMTClYPjw",
+    "status": {
+      "last_webhook": {
+        "code_sent": "HISTORICAL_UPDATE",
+        "sent_at": "2025-06-04T23:09:26.072Z"
+      },
+      "transactions": {
+        "last_failed_update": "2025-06-04T23:09:20.398Z",
+        "last_successful_update": "2025-06-04T23:09:24.708Z"
+      }
+    }
+  },
+  {
+    "item": {
+      "available_products": [
+        "assets",
+        "auth",
+        "balance",
+        "identity",
+        "identity_match",
+        "income_verification",
+        "payment_initiation",
+        "recurring_transactions",
+        "signal",
+        "transfer"
+      ],
+      "billed_products": [
+        "transactions"
+      ],
+      "consent_expiration_time": "2025-07-04T23:09:33Z",
+      "created_at": "2025-06-04T23:09:32Z",
+      "error": null,
+      "institution_id": "ins_122880",
+      "institution_name": "Banque Populaire - Aquitaine Centre Atlantique",
+      "item_id": "rrKr4MZpdli4bwxPy8wJCeNlX8LQNmIlBZxey",
+      "products": [
+        "transactions"
+      ],
+      "update_type": "background",
+      "webhook": "https://www.plaid.com/webhook"
+    },
+    "request_id": "VPooqt9E83lt0l1",
+    "status": {
+      "last_webhook": {
+        "code_sent": "HISTORICAL_UPDATE",
+        "sent_at": "2025-06-04T23:09:40.621Z"
+      },
+      "transactions": {
+        "last_failed_update": "2025-06-04T23:09:34.51Z",
+        "last_successful_update": "2025-06-04T23:09:38.996Z"
+      }
+    }
+  }
+]

@@ -1,0 +1,4 @@
+country_codes,institution_id,name,oauth,products,routing_numbers
+['FR'],ins_122878,Banque Populaire - du Nord,True,"['assets', 'auth', 'balance', 'identity', 'identity_match', 'income_verification', 'pay_by_bank', 'payment_initiation', 'processor_payments', 'recurring_transactions', 'signal', 'transactions', 'transfer']",[]
+['FR'],ins_122879,Banque Populaire - Sud,True,"['assets', 'auth', 'balance', 'identity', 'identity_match', 'income_verification', 'pay_by_bank', 'payment_initiation', 'processor_payments', 'recurring_transactions', 'signal', 'transactions', 'transfer']",[]
+['FR'],ins_122880,Banque Populaire - Aquitaine Centre Atlantique,True,"['assets', 'auth', 'balance', 'identity', 'identity_match', 'income_verification', 'pay_by_bank', 'payment_initiation', 'processor_payments', 'recurring_transactions', 'signal', 'transactions', 'transfer']",[]
